@@ -2,4 +2,4 @@
 
 ### The follosing is the diagram to understand the BTS concepts
 
-![Global Execution Context](GEC.jpg)
+![Global Execution Context](/assets/GEC.jpg)
